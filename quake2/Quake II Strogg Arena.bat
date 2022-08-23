@@ -1,0 +1,1 @@
+quake2.exe +set game gladiator +set botfile botsStrogg.cfg +exec startup.cfg +

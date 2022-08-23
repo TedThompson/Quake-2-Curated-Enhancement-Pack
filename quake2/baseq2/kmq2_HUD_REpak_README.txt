@@ -1,0 +1,1 @@
+HUD textures pulled from https://bitbucket.org/Knightmare66/kmquake2_stable/downloads/ kmq2_pakXX.pk3 files.

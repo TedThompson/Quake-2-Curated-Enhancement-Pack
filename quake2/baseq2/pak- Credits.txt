@@ -1,0 +1,11 @@
+pak-models.pk3 and pak-textures.pk3 were renamed from models.zip and textures.zip downloaded from
+https://deponie.yamagi.org/quake2/texturepack/
+
+pak-env.pk3 files came from 
+https://github.com/Calinou/quake2-neural-upscale
+
+All other pak-*.pk3 files have credits within the file.
+
+NOTE: A pk3 is a renamed ZIP file and can be opened like any other zip file.
+
+  --T. Thompson 2022
