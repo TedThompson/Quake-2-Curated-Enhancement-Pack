@@ -1,0 +1,1948 @@
+WinBSPC v1.4
+loading maps\mintro.bsp
+allocated 14 MB and 758 KB of BSP memory
+-- Q2_LoadMapFromBSP --
+Loading map from C:\quake2-Yagami\baseq2\pak0.pak...
+Entity 0, Brush 221: duplicate plane
+Entity 0, Brush 239: duplicate plane
+Entity 0, Brush 247: duplicate plane
+Entity 0, Brush 389: duplicate plane
+Entity 0, Brush 391: duplicate plane
+Entity 0, Brush 411: duplicate plane
+Entity 0, Brush 419: duplicate plane
+Entity 0, Brush 785: duplicate plane
+Entity 0, Brush 801: duplicate plane
+Entity 0, Brush 801: duplicate plane
+Entity 0, Brush 805: duplicate plane
+Entity 0, Brush 919: duplicate plane
+Entity 0, Brush 921: duplicate plane
+Entity 0, Brush 933: duplicate plane
+Entity 0, Brush 949: duplicate plane
+Entity 0, Brush 975: duplicate plane
+Entity 0, Brush 1322: duplicate plane
+Entity 0, Brush 1322: duplicate plane
+Entity 0, Brush 1324: duplicate plane
+Entity 0, Brush 1324: duplicate plane
+Entity 0, Brush 1372: duplicate plane
+Entity 0, Brush 2655: duplicate plane
+
+  3140 brushes
+ 28394 brush sides
+freed 14 MB and 758 KB of BSP memory
+-------- Brush CSG ---------
+  3140 original brushes
+  2915 output brushes
+-------- Brush BSP ---------
+  2915 brushes
+ 13782 visible faces
+     0 nonvisible faces
+ 25239 total sides
+Win32 multi-threading
+     1 threads max
+depth first bsp building
+     0 splitstwo tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+two tiny brushes
+115479 splits
+ 11728 KB of node memory
+   972 KB of peak brush memory
+  6692 KB of peak winding memory
+ 15170 KB of peak total bsp memory
+BSP tree created in    29 seconds
+------- Prune Nodes --------
+71726 pruned nodes
+---- Node Portalization ----
+ 43753 nodes portalized
+   810 tiny portals
+  9239 KB of portal memory
+ 14272 KB of winding memory
+------ FloodEntities -------
+------- FillOutside --------
+11122 solid leaves
+ 2723 leaves filled
+ 8032 inside leaves
+AAS_CreateConvexAreas
+area 86 face 594 winding plane unequal to face plane
+area 547 face 3204 winding plane unequal to face plane
+area 552 face 3227 winding plane unequal to face plane
+area 552 face 3204 winding plane unequal to face plane
+area 755 face 4336 winding plane unequal to face plane
+area 755 face 4335 winding plane unequal to face plane
+area 767 face 4336 winding plane unequal to face plane
+area 768 face 4335 winding plane unequal to face plane
+area 770 face 4446 winding plane unequal to face plane
+area 771 face 4446 winding plane unequal to face plane
+area 771 face 4449 winding plane unequal to face plane
+area 890 face 4449 winding plane unequal to face plane
+area 991 face 5561 winding plane unequal to face plane
+area 1042 face 5888 winding plane unequal to face plane
+area 1043 face 5888 winding plane unequal to face plane
+area 1088 face 6137 winding plane unequal to face plane
+area 1089 face 6140 winding plane unequal to face plane
+area 1094 face 6155 winding plane unequal to face plane
+area 1110 face 6232 winding plane unequal to face plane
+area 1112 face 5561 winding plane unequal to face plane
+area 1154 face 6440 winding plane unequal to face plane
+area 1275 face 7176 winding plane unequal to face plane
+area 1319 face 7435 winding plane unequal to face plane
+area 1323 face 7435 winding plane unequal to face plane
+area 1323 face 7450 winding plane unequal to face plane
+area 1325 face 7450 winding plane unequal to face plane
+area 1332 face 7506 winding plane unequal to face plane
+area 1343 face 7506 winding plane unequal to face plane
+area 1351 face 7592 winding plane unequal to face plane
+area 1353 face 7592 winding plane unequal to face plane
+area 1371 face 7687 winding plane unequal to face plane
+area 1372 face 7687 winding plane unequal to face plane
+area 1372 face 7688 winding plane unequal to face plane
+area 1374 face 7688 winding plane unequal to face plane
+area 1456 face 8101 winding plane unequal to face plane
+area 1475 face 8171 winding plane unequal to face plane
+area 1476 face 8171 winding plane unequal to face plane
+area 1481 face 8192 winding plane unequal to face plane
+area 2015 face 11023 winding plane unequal to face plane
+area 2017 face 11023 winding plane unequal to face plane
+area 2028 face 11077 winding plane unequal to face plane
+area 2032 face 11092 winding plane unequal to face plane
+area 2042 face 11077 winding plane unequal to face plane
+area 2065 face 11314 winding plane unequal to face plane
+area 2080 face 11379 winding plane unequal to face plane
+area 2080 face 11378 winding plane unequal to face plane
+area 2081 face 11379 winding plane unequal to face plane
+area 2127 face 11588 winding plane unequal to face plane
+area 2128 face 11588 winding plane unequal to face plane
+area 2131 face 11605 winding plane unequal to face plane
+area 2138 face 11605 winding plane unequal to face plane
+area 2150 face 11699 winding plane unequal to face plane
+area 2171 face 11699 winding plane unequal to face plane
+area 2184 face 11829 winding plane unequal to face plane
+area 2185 face 11829 winding plane unequal to face plane
+area 2185 face 11314 winding plane unequal to face plane
+area 2403 face 13124 winding plane unequal to face plane
+area 2470 face 13499 winding plane unequal to face plane
+area 2471 face 13506 winding plane unequal to face plane
+area 2472 face 13511 winding plane unequal to face plane
+area 2486 face 13124 winding plane unequal to face plane
+area 2494 face 13499 winding plane unequal to face plane
+area 2614 face 14321 winding plane unequal to face plane
+area 2615 face 14321 winding plane unequal to face plane
+area 2645 face 14486 winding plane unequal to face plane
+area 2647 face 14486 winding plane unequal to face plane
+area 2670 face 14619 winding plane unequal to face plane
+area 2675 face 14619 winding plane unequal to face plane
+area 2693 face 14717 winding plane unequal to face plane
+area 2701 face 14762 winding plane unequal to face plane
+area 2702 face 14762 winding plane unequal to face plane
+area 2713 face 14824 winding plane unequal to face plane
+area 2719 face 14852 winding plane unequal to face plane
+area 2720 face 14824 winding plane unequal to face plane
+area 2723 face 14852 winding plane unequal to face plane
+area 2904 face 15710 winding plane unequal to face plane
+area 2930 face 15892 winding plane unequal to face plane
+area 2987 face 15892 winding plane unequal to face plane
+area 3006 face 15710 winding plane unequal to face plane
+area 3028 face 16446 winding plane unequal to face plane
+area 3032 face 16471 winding plane unequal to face plane
+area 3113 face 16887 winding plane unequal to face plane
+area 3153 face 16887 winding plane unequal to face plane
+area 3263 face 16446 winding plane unequal to face plane
+area 3264 face 16471 winding plane unequal to face plane
+area 3336 face 17798 winding plane unequal to face plane
+area 3344 face 17798 winding plane unequal to face plane
+area 3362 face 17896 winding plane unequal to face plane
+area 3426 face 18202 winding plane unequal to face plane
+area 3426 face 18201 winding plane unequal to face plane
+area 3431 face 18231 winding plane unequal to face plane
+area 3433 face 18231 winding plane unequal to face plane
+area 3434 face 18202 winding plane unequal to face plane
+area 3490 face 18498 winding plane unequal to face plane
+area 3491 face 18505 winding plane unequal to face plane
+area 3551 face 18801 winding plane unequal to face plane
+area 3551 face 18498 winding plane unequal to face plane
+area 3551 face 18505 winding plane unequal to face plane
+area 3804 face 20094 winding plane unequal to face plane
+area 3804 face 20093 winding plane unequal to face plane
+area 3804 face 20092 winding plane unequal to face plane
+area 3805 face 20093 winding plane unequal to face plane
+area 3806 face 20092 winding plane unequal to face plane
+area 3854 face 20328 winding plane unequal to face plane
+area 3854 face 20327 winding plane unequal to face plane
+area 3855 face 20333 winding plane unequal to face plane
+area 3855 face 20332 winding plane unequal to face plane
+area 3879 face 20446 winding plane unequal to face plane
+area 3896 face 20328 winding plane unequal to face plane
+area 3898 face 20514 winding plane unequal to face plane
+area 3899 face 20327 winding plane unequal to face plane
+area 3903 face 20332 winding plane unequal to face plane
+area 3904 face 20514 winding plane unequal to face plane
+area 3940 face 20694 winding plane unequal to face plane
+area 3941 face 20694 winding plane unequal to face plane
+area 4079 face 21460 winding plane unequal to face plane
+area 4079 face 21458 winding plane unequal to face plane
+area 4107 face 21637 winding plane unequal to face plane
+area 4107 face 21636 winding plane unequal to face plane
+area 4115 face 21637 winding plane unequal to face plane
+area 4117 face 21689 winding plane unequal to face plane
+area 4118 face 21689 winding plane unequal to face plane
+area 4118 face 21693 winding plane unequal to face plane
+area 4122 face 21712 winding plane unequal to face plane
+area 4129 face 21460 winding plane unequal to face plane
+area 4133 face 21458 winding plane unequal to face plane
+area 4196 face 22019 winding plane unequal to face plane
+area 4197 face 22024 winding plane unequal to face plane
+area 4197 face 22023 winding plane unequal to face plane
+area 4198 face 22019 winding plane unequal to face plane
+area 4210 face 22103 winding plane unequal to face plane
+area 4211 face 22103 winding plane unequal to face plane
+area 4212 face 22112 winding plane unequal to face plane
+area 4234 face 22224 winding plane unequal to face plane
+area 4299 face 22567 winding plane unequal to face plane
+area 4304 face 22583 winding plane unequal to face plane
+area 4305 face 22583 winding plane unequal to face plane
+area 4305 face 22585 winding plane unequal to face plane
+area 4332 face 22713 winding plane unequal to face plane
+area 4370 face 22903 winding plane unequal to face plane
+area 4374 face 22903 winding plane unequal to face plane
+area 4404 face 23065 winding plane unequal to face plane
+area 4405 face 23077 winding plane unequal to face plane
+area 4410 face 23065 winding plane unequal to face plane
+area 4414 face 23077 winding plane unequal to face plane
+area 4487 face 23524 winding plane unequal to face plane
+area 4491 face 23545 winding plane unequal to face plane
+area 4491 face 23544 winding plane unequal to face plane
+area 4496 face 23545 winding plane unequal to face plane
+area 4497 face 23544 winding plane unequal to face plane
+area 4505 face 23600 winding plane unequal to face plane
+area 4507 face 23524 winding plane unequal to face plane
+area 4528 face 23678 winding plane unequal to face plane
+area 4608 face 24052 winding plane unequal to face plane
+area 4608 face 24051 winding plane unequal to face plane
+area 4650 face 24286 winding plane unequal to face plane
+area 4653 face 24051 winding plane unequal to face plane
+area 4653 face 24301 winding plane unequal to face plane
+area 4660 face 24347 winding plane unequal to face plane
+area 4660 face 24343 winding plane unequal to face plane
+area 4668 face 24343 winding plane unequal to face plane
+area 4670 face 24380 winding plane unequal to face plane
+area 4695 face 24495 winding plane unequal to face plane
+area 4696 face 24495 winding plane unequal to face plane
+area 4729 face 24647 winding plane unequal to face plane
+area 4730 face 24653 winding plane unequal to face plane
+area 4730 face 24652 winding plane unequal to face plane
+area 4732 face 24653 winding plane unequal to face plane
+area 4733 face 24652 winding plane unequal to face plane
+area 4733 face 24647 winding plane unequal to face plane
+area 4764 face 24806 winding plane unequal to face plane
+area 4773 face 24844 winding plane unequal to face plane
+area 4777 face 24863 winding plane unequal to face plane
+area 4778 face 24865 winding plane unequal to face plane
+area 4779 face 24865 winding plane unequal to face plane
+area 4806 face 24991 winding plane unequal to face plane
+area 4823 face 25126 winding plane unequal to face plane
+area 4824 face 25126 winding plane unequal to face plane
+area 4832 face 25169 winding plane unequal to face plane
+area 4840 face 25216 winding plane unequal to face plane
+area 4856 face 25320 winding plane unequal to face plane
+area 4862 face 25355 winding plane unequal to face plane
+area 4862 face 25354 winding plane unequal to face plane
+area 4906 face 25635 winding plane unequal to face plane
+area 4915 face 25697 winding plane unequal to face plane
+area 4916 face 25697 winding plane unequal to face plane
+area 4921 face 25355 winding plane unequal to face plane
+area 4922 face 25354 winding plane unequal to face plane
+area 4923 face 25635 winding plane unequal to face plane
+area 4933 face 25789 winding plane unequal to face plane
+area 4949 face 25872 winding plane unequal to face plane
+area 4949 face 25871 winding plane unequal to face plane
+area 4950 face 25872 winding plane unequal to face plane
+area 4951 face 25871 winding plane unequal to face plane
+area 4983 face 25216 winding plane unequal to face plane
+area 5033 face 26287 winding plane unequal to face plane
+area 5080 face 26551 winding plane unequal to face plane
+area 5081 face 26551 winding plane unequal to face plane
+area 5103 face 26636 winding plane unequal to face plane
+area 5104 face 26636 winding plane unequal to face plane
+area 5104 face 26640 winding plane unequal to face plane
+area 5187 face 27109 winding plane unequal to face plane
+area 5205 face 27109 winding plane unequal to face plane
+area 5220 face 27294 winding plane unequal to face plane
+area 5220 face 27293 winding plane unequal to face plane
+area 5224 face 27312 winding plane unequal to face plane
+area 5340 face 27294 winding plane unequal to face plane
+area 5340 face 27838 winding plane unequal to face plane
+area 5343 face 27838 winding plane unequal to face plane
+area 5343 face 27293 winding plane unequal to face plane
+area 5359 face 27928 winding plane unequal to face plane
+area 5393 face 28137 winding plane unequal to face plane
+area 5613 face 29134 winding plane unequal to face plane
+area 5613 face 29133 winding plane unequal to face plane
+area 5673 face 29457 winding plane unequal to face plane
+area 5680 face 29499 winding plane unequal to face plane
+area 5683 face 29499 winding plane unequal to face plane
+area 5685 face 29523 winding plane unequal to face plane
+area 5685 face 29522 winding plane unequal to face plane
+area 5686 face 29522 winding plane unequal to face plane
+area 5769 face 30059 winding plane unequal to face plane
+area 5833 face 30415 winding plane unequal to face plane
+area 5874 face 30562 winding plane unequal to face plane
+area 5875 face 30562 winding plane unequal to face plane
+area 5884 face 30059 winding plane unequal to face plane
+area 5897 face 30647 winding plane unequal to face plane
+area 5899 face 30647 winding plane unequal to face plane
+area 5910 face 30701 winding plane unequal to face plane
+area 5914 face 30715 winding plane unequal to face plane
+area 5915 face 30701 winding plane unequal to face plane
+area 5917 face 30715 winding plane unequal to face plane
+area 5944 face 30858 winding plane unequal to face plane
+area 5945 face 30858 winding plane unequal to face plane
+area 5947 face 30868 winding plane unequal to face plane
+area 5947 face 30867 winding plane unequal to face plane
+area 5967 face 30961 winding plane unequal to face plane
+area 5970 face 30984 winding plane unequal to face plane
+area 6044 face 31334 winding plane unequal to face plane
+area 6050 face 31357 winding plane unequal to face plane
+area 6051 face 31334 winding plane unequal to face plane
+area 6052 face 31357 winding plane unequal to face plane
+area 6100 face 31555 winding plane unequal to face plane
+area 6120 face 31658 winding plane unequal to face plane
+area 6121 face 30961 winding plane unequal to face plane
+area 6186 face 31987 winding plane unequal to face plane
+area 6195 face 31987 winding plane unequal to face plane
+area 6228 face 32210 winding plane unequal to face plane
+area 6229 face 32210 winding plane unequal to face plane
+area 6231 face 32223 winding plane unequal to face plane
+area 6231 face 32222 winding plane unequal to face plane
+area 6254 face 32322 winding plane unequal to face plane
+area 6327 face 32656 winding plane unequal to face plane
+area 6468 face 33394 winding plane unequal to face plane
+area 6492 face 33459 winding plane unequal to face plane
+area 6493 face 33459 winding plane unequal to face plane
+area 6495 face 33470 winding plane unequal to face plane
+area 6525 face 33620 winding plane unequal to face plane
+area 6533 face 33666 winding plane unequal to face plane
+area 6549 face 33717 winding plane unequal to face plane
+area 6559 face 33763 winding plane unequal to face plane
+area 6560 face 33763 winding plane unequal to face plane
+area 6573 face 33840 winding plane unequal to face plane
+area 6645 face 34174 winding plane unequal to face plane
+area 6655 face 34219 winding plane unequal to face plane
+area 6656 face 34222 winding plane unequal to face plane
+area 6659 face 34234 winding plane unequal to face plane
+area 6660 face 34241 winding plane unequal to face plane
+area 6660 face 34239 winding plane unequal to face plane
+area 6661 face 34242 winding plane unequal to face plane
+area 6663 face 34242 winding plane unequal to face plane
+area 6664 face 34234 winding plane unequal to face plane
+area 6668 face 34265 winding plane unequal to face plane
+area 6789 face 34871 winding plane unequal to face plane
+area 6800 face 34953 winding plane unequal to face plane
+area 6800 face 34949 winding plane unequal to face plane
+area 6876 face 35473 winding plane unequal to face plane
+area 6974 face 36053 winding plane unequal to face plane
+area 6975 face 36058 winding plane unequal to face plane
+area 6976 face 36058 winding plane unequal to face plane
+area 6977 face 36053 winding plane unequal to face plane
+area 6991 face 36128 winding plane unequal to face plane
+area 7016 face 36235 winding plane unequal to face plane
+area 7040 face 36371 winding plane unequal to face plane
+area 7041 face 36375 winding plane unequal to face plane
+area 7042 face 36382 winding plane unequal to face plane
+area 7042 face 36381 winding plane unequal to face plane
+area 7043 face 36375 winding plane unequal to face plane
+area 7045 face 36391 winding plane unequal to face plane
+area 7046 face 36391 winding plane unequal to face plane
+area 7046 face 36396 winding plane unequal to face plane
+area 7066 face 36464 winding plane unequal to face plane
+area 7070 face 36475 winding plane unequal to face plane
+area 7103 face 36655 winding plane unequal to face plane
+area 7103 face 36653 winding plane unequal to face plane
+area 7108 face 36683 winding plane unequal to face plane
+area 7110 face 36683 winding plane unequal to face plane
+area 7110 face 36691 winding plane unequal to face plane
+area 7110 face 36653 winding plane unequal to face plane
+area 7115 face 34871 winding plane unequal to face plane
+area 7132 face 36475 winding plane unequal to face plane
+area 7346 face 37804 winding plane unequal to face plane
+area 7347 face 37804 winding plane unequal to face plane
+area 7428 face 38263 winding plane unequal to face plane
+area 7431 face 38263 winding plane unequal to face plane
+area 8009 face 41416 winding plane unequal to face plane
+area 8014 face 41416 winding plane unequal to face plane
+     0 areas created
+freed 24 MB and 316 KB and 304 bytes of tree memory
+AAS_MergeAreaFaces
+  1522 face merges
+AAS_GravitationalSubdivision
+found 1 epsilon faces trying to split area 124
+found 1 epsilon faces trying to split area 124
+found 1 epsilon faces trying to split area 136
+found 1 epsilon faces trying to split area 8063
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 175
+found 1 epsilon faces trying to split area 175
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 175
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 175
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 175
+found 1 epsilon faces trying to split area 175
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 8077
+found 2 epsilon faces trying to split area 8077
+found 2 epsilon faces trying to split area 8081
+found 1 epsilon faces trying to split area 8081
+found 1 epsilon faces trying to split area 8084
+found 2 epsilon faces trying to split area 8084
+found 1 epsilon faces trying to split area 368
+found 3 epsilon faces trying to split area 403
+found 1 epsilon faces trying to split area 439
+found 1 epsilon faces trying to split area 439
+found 3 epsilon faces trying to split area 622
+area 8262 face 43800 winding plane unequal to face plane
+area 8263 face 43800 winding plane unequal to face plane
+found 2 epsilon faces trying to split area 777
+found 1 epsilon faces trying to split area 855
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 855
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 870
+found 2 epsilon faces trying to split area 872
+found 3 epsilon faces trying to split area 987
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 1066
+found 1 epsilon faces trying to split area 1085
+found 1 epsilon faces trying to split area 1085
+found 7 epsilon faces trying to split area 1086
+found 4 epsilon faces trying to split area 8351
+found 1 epsilon faces trying to split area 1087
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 1137
+found 1 epsilon faces trying to split area 1381
+found 1 epsilon faces trying to split area 8396
+area 8433 face 45242 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 1921
+found 1 epsilon faces trying to split area 1927
+found 1 epsilon faces trying to split area 1929
+found 2 epsilon faces trying to split area 2355
+found 2 epsilon faces trying to split area 2355
+found 2 epsilon faces trying to split area 8521
+found 2 epsilon faces trying to split area 8521
+found 1 epsilon faces trying to split area 8522
+area 8544 face 46366 winding plane unequal to face plane
+area 8545 face 46366 winding plane unequal to face plane
+found 3 epsilon faces trying to split area 2391
+found 1 epsilon faces trying to split area 2403
+area 2403 face 13124 winding plane unequal to face plane
+area 8554 face 46466 winding plane unequal to face plane
+area 8555 face 46467 winding plane unequal to face plane
+area 8555 face 46467 winding plane unequal to face plane
+area 8557 face 46475 winding plane unequal to face plane
+found 2 epsilon faces trying to split area 2410
+found 1 epsilon faces trying to split area 8567
+area 8576 face 46690 winding plane unequal to face plane
+area 8577 face 46691 winding plane unequal to face plane
+found 3 epsilon faces trying to split area 2484
+found 3 epsilon faces trying to split area 8579
+found 1 epsilon faces trying to split area 2485
+found 1 epsilon faces trying to split area 2485
+found 1 epsilon faces trying to split area 2485
+area 2486 face 46475 winding plane unequal to face plane
+area 2486 face 46466 winding plane unequal to face plane
+area 8580 face 46725 winding plane unequal to face plane
+area 8580 face 46719 winding plane unequal to face plane
+area 8581 face 46726 winding plane unequal to face plane
+area 8581 face 46721 winding plane unequal to face plane
+area 8581 face 46726 winding plane unequal to face plane
+area 8581 face 46721 winding plane unequal to face plane
+area 8582 face 46745 winding plane unequal to face plane
+area 8583 face 46741 winding plane unequal to face plane
+area 8582 face 46745 winding plane unequal to face plane
+area 8585 face 46758 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 8585
+area 2488 face 46741 winding plane unequal to face plane
+area 2488 face 46725 winding plane unequal to face plane
+area 8586 face 46771 winding plane unequal to face plane
+area 8586 face 46770 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 2492
+found 1 epsilon faces trying to split area 2499
+found 1 epsilon faces trying to split area 8591
+found 1 epsilon faces trying to split area 8593
+area 2550 face 46691 winding plane unequal to face plane
+area 2550 face 46690 winding plane unequal to face plane
+area 8598 face 46891 winding plane unequal to face plane
+area 8598 face 46890 winding plane unequal to face plane
+area 8598 face 46891 winding plane unequal to face plane
+area 8598 face 46890 winding plane unequal to face plane
+area 8600 face 46910 winding plane unequal to face plane
+area 8601 face 46909 winding plane unequal to face plane
+area 2594 face 14217 winding plane unequal to face plane
+area 8607 face 46952 winding plane unequal to face plane
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 2601
+found 1 epsilon faces trying to split area 8612
+found 1 epsilon faces trying to split area 8614
+found 1 epsilon faces trying to split area 8617
+area 8619 face 47088 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 8618
+area 8621 face 47091 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 8621
+area 2614 face 14321 winding plane unequal to face plane
+area 8635 face 47193 winding plane unequal to face plane
+area 8635 face 47193 winding plane unequal to face plane
+area 8637 face 47204 winding plane unequal to face plane
+area 8637 face 47204 winding plane unequal to face plane
+area 8638 face 47227 winding plane unequal to face plane
+area 2615 face 47227 winding plane unequal to face plane
+area 8641 face 47232 winding plane unequal to face plane
+found 3 epsilon faces trying to split area 2621
+found 1 epsilon faces trying to split area 2627
+found 1 epsilon faces trying to split area 2627
+found 1 epsilon faces trying to split area 2627
+found 1 epsilon faces trying to split area 2631
+found 3 epsilon faces trying to split area 8650
+found 1 epsilon faces trying to split area 2932
+found 3 epsilon faces trying to split area 3337
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 3426
+found 1 epsilon faces trying to split area 3426
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 3 epsilon faces trying to split area 3431
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 3 epsilon faces trying to split area 3431
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 3 epsilon faces trying to split area 3431
+found 1 epsilon faces trying to split area 3431
+area 3431 face 18231 winding plane unequal to face plane
+area 8712 face 47855 winding plane unequal to face plane
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 3 epsilon faces trying to split area 8712
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 8712
+found 3 epsilon faces trying to split area 8712
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 3 epsilon faces trying to split area 8712
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+area 8712 face 47855 winding plane unequal to face plane
+area 8715 face 47866 winding plane unequal to face plane
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 3432
+found 2 epsilon faces trying to split area 3455
+found 1 epsilon faces trying to split area 3505
+found 2 epsilon faces trying to split area 3616
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 3757
+found 1 epsilon faces trying to split area 3757
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 3757
+found 1 epsilon faces trying to split area 3757
+found 1 epsilon faces trying to split area 3757
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 3757
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8792
+found 1 epsilon faces trying to split area 8795
+found 1 epsilon faces trying to split area 8795
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 8795
+found 1 epsilon faces trying to split area 8795
+found 1 epsilon faces trying to split area 8795
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 8795
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8799
+found 1 epsilon faces trying to split area 8801
+found 1 epsilon faces trying to split area 8801
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 8801
+found 1 epsilon faces trying to split area 8801
+found 1 epsilon faces trying to split area 8801
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 8801
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+area 8814 face 48761 winding plane unequal to face plane
+area 8815 face 48761 winding plane unequal to face plane
+area 8815 face 48761 winding plane unequal to face plane
+area 8816 face 48808 winding plane unequal to face plane
+area 8816 face 48808 winding plane unequal to face plane
+area 8819 face 48812 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 3770
+area 8834 face 48987 winding plane unequal to face plane
+area 8835 face 48988 winding plane unequal to face plane
+area 8842 face 49047 winding plane unequal to face plane
+found 3 epsilon faces trying to split area 8845
+area 8852 face 49109 winding plane unequal to face plane
+area 3854 face 20328 winding plane unequal to face plane
+area 3854 face 20327 winding plane unequal to face plane
+area 8854 face 49123 winding plane unequal to face plane
+area 8855 face 49124 winding plane unequal to face plane
+area 8855 face 49122 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 3872
+found 3 epsilon faces trying to split area 3879
+found 1 epsilon faces trying to split area 3880
+found 1 epsilon faces trying to split area 3899
+found 1 epsilon faces trying to split area 3902
+found 1 epsilon faces trying to split area 3984
+found 1 epsilon faces trying to split area 4149
+found 1 epsilon faces trying to split area 8896
+found 5 epsilon faces trying to split area 8899
+found 1 epsilon faces trying to split area 4342
+found 3 epsilon faces trying to split area 4347
+found 1 epsilon faces trying to split area 4357
+found 4 epsilon faces trying to split area 4447
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+area 4650 face 24286 winding plane unequal to face plane
+area 8923 face 49721 winding plane unequal to face plane
+FindPlaneSeperatingWindings: winding1 with degenerate edge
+area 8923 face 49721 winding plane unequal to face plane
+area 8924 face 49736 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 4660
+found 1 epsilon faces trying to split area 4660
+area 4732 face 24653 winding plane unequal to face plane
+area 8934 face 49808 winding plane unequal to face plane
+found 5 epsilon faces trying to split area 4746
+found 2 epsilon faces trying to split area 4775
+found 1 epsilon faces trying to split area 4789
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 4973
+found 3 epsilon faces trying to split area 4980
+found 1 epsilon faces trying to split area 5699
+found 1 epsilon faces trying to split area 5699
+found 1 epsilon faces trying to split area 5699
+found 2 epsilon faces trying to split area 5735
+found 2 epsilon faces trying to split area 9031
+found 1 epsilon faces trying to split area 9032
+found 6 epsilon faces trying to split area 5738
+found 1 epsilon faces trying to split area 5908
+found 1 epsilon faces trying to split area 5908
+found 1 epsilon faces trying to split area 5908
+found 2 epsilon faces trying to split area 9035
+area 9037 face 50783 winding plane unequal to face plane
+found 4 epsilon faces trying to split area 9036
+area 5918 face 50783 winding plane unequal to face plane
+area 9038 face 50801 winding plane unequal to face plane
+found 4 epsilon faces trying to split area 5940
+found 5 epsilon faces trying to split area 5941
+found 4 epsilon faces trying to split area 5985
+found 1 epsilon faces trying to split area 6072
+found 1 epsilon faces trying to split area 6209
+found 1 epsilon faces trying to split area 6209
+found 1 epsilon faces trying to split area 6263
+found 1 epsilon faces trying to split area 6803
+found 1 epsilon faces trying to split area 9111
+found 1 epsilon faces trying to split area 6813
+found 1 epsilon faces trying to split area 6813
+found 1 epsilon faces trying to split area 6813
+found 1 epsilon faces trying to split area 6813
+found 1 epsilon faces trying to split area 6813
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9127
+found 1 epsilon faces trying to split area 9128
+found 1 epsilon faces trying to split area 9128
+found 1 epsilon faces trying to split area 9128
+found 1 epsilon faces trying to split area 9130
+found 1 epsilon faces trying to split area 9129
+found 1 epsilon faces trying to split area 9129
+found 1 epsilon faces trying to split area 9135
+found 1 epsilon faces trying to split area 9140
+found 1 epsilon faces trying to split area 9143
+found 1 epsilon faces trying to split area 9145
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 6873
+found 1 epsilon faces trying to split area 9167
+found 1 epsilon faces trying to split area 9167
+found 1 epsilon faces trying to split area 9167
+found 1 epsilon faces trying to split area 9167
+found 1 epsilon faces trying to split area 9167
+found 1 epsilon faces trying to split area 9171
+found 1 epsilon faces trying to split area 9171
+found 1 epsilon faces trying to split area 9171
+found 1 epsilon faces trying to split area 9171
+found 1 epsilon faces trying to split area 9171
+found 1 epsilon faces trying to split area 9172
+found 1 epsilon faces trying to split area 9172
+found 1 epsilon faces trying to split area 9172
+found 1 epsilon faces trying to split area 9172
+found 1 epsilon faces trying to split area 9172
+AAS_SplitFace: tiny back face
+gsubdiv: area 9176 has a tiny winding
+gsubdiv: area 9177 has a tiny winding
+area 9178 face 52135 winding plane unequal to face plane
+area 9179 face 52135 winding plane unequal to face plane
+found 1 epsilon faces trying to split area 6890
+found 2 epsilon faces trying to split area 9183
+found 2 epsilon faces trying to split area 6998
+found 1 epsilon faces trying to split area 6998
+found 1 epsilon faces trying to split area 6998
+found 2 epsilon faces trying to split area 6998
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+FindPlaneSeperatingWindings: winding2 with degenerate edge
+found 2 epsilon faces trying to split area 7041
+found 5 epsilon faces trying to split area 7103
+found 1 epsilon faces trying to split area 7108
+found 2 epsilon faces trying to split area 7292
+found 2 epsilon faces trying to split area 7292
+found 3 epsilon faces trying to split area 7292
+found 2 epsilon faces trying to split area 7452
+found 5 epsilon faces trying to split area 7502
+found 5 epsilon faces trying to split area 7503
+found 3 epsilon faces trying to split area 7665
+found 1 epsilon faces trying to split area 7891
+found 1 epsilon faces trying to split area 9435
+found 3 epsilon faces trying to split area 7902
+found 2 epsilon faces trying to split area 8001
+found 2 epsilon faces trying to split area 8001
+found 1 epsilon faces trying to split area 8006
+found 1 epsilon faces trying to split area 9479
+found 1 epsilon faces trying to split area 8025
+found 1 epsilon faces trying to split area 9510
+   742 gravitational subdivisions
+AAS_MergeAreaFaces
+    25 face merges
+AAS_MergeAreas
+area 9583 face 36475 winding plane unequal to face plane
+area 9647 face 49808 winding plane unequal to face plane
+area 9656 face 22713 winding plane unequal to face plane
+area 9675 face 20332 winding plane unequal to face plane
+area 9675 face 20333 winding plane unequal to face plane
+area 9675 face 49123 winding plane unequal to face plane
+area 9676 face 49123 winding plane unequal to face plane
+area 9676 face 20333 winding plane unequal to face plane
+area 9676 face 20332 winding plane unequal to face plane
+area 9676 face 49109 winding plane unequal to face plane
+area 9679 face 46909 winding plane unequal to face plane
+area 9680 face 48999 winding plane unequal to face plane
+area 9681 face 48999 winding plane unequal to face plane
+area 9682 face 48987 winding plane unequal to face plane
+area 9734 face 46952 winding plane unequal to face plane
+area 9783 face 45242 winding plane unequal to face plane
+area 10084 face 38263 winding plane unequal to face plane
+area 10085 face 38263 winding plane unequal to face plane
+area 10103 face 37804 winding plane unequal to face plane
+area 10115 face 37804 winding plane unequal to face plane
+area 10222 face 36396 winding plane unequal to face plane
+area 10223 face 36381 winding plane unequal to face plane
+area 10223 face 36382 winding plane unequal to face plane
+area 10228 face 36235 winding plane unequal to face plane
+area 10241 face 36053 winding plane unequal to face plane
+area 10243 face 36053 winding plane unequal to face plane
+area 10246 face 36053 winding plane unequal to face plane
+area 10263 face 36235 winding plane unequal to face plane
+area 10270 face 35473 winding plane unequal to face plane
+area 10277 face 34949 winding plane unequal to face plane
+area 10277 face 34953 winding plane unequal to face plane
+area 10283 face 34871 winding plane unequal to face plane
+area 10284 face 34871 winding plane unequal to face plane
+area 10328 face 34219 winding plane unequal to face plane
+area 10330 face 34265 winding plane unequal to face plane
+area 10331 face 34234 winding plane unequal to face plane
+area 10333 face 34234 winding plane unequal to face plane
+area 10333 face 34242 winding plane unequal to face plane
+area 10334 face 34242 winding plane unequal to face plane
+area 10335 face 34239 winding plane unequal to face plane
+area 10335 face 34241 winding plane unequal to face plane
+area 10336 face 34222 winding plane unequal to face plane
+area 10343 face 34219 winding plane unequal to face plane
+area 10373 face 33763 winding plane unequal to face plane
+area 10374 face 33763 winding plane unequal to face plane
+area 10380 face 33717 winding plane unequal to face plane
+area 10380 face 33666 winding plane unequal to face plane
+area 10399 face 33470 winding plane unequal to face plane
+area 10400 face 33470 winding plane unequal to face plane
+area 10401 face 33459 winding plane unequal to face plane
+area 10414 face 33394 winding plane unequal to face plane
+area 10453 face 33459 winding plane unequal to face plane
+area 10471 face 32656 winding plane unequal to face plane
+area 10484 face 32656 winding plane unequal to face plane
+area 10500 face 32222 winding plane unequal to face plane
+area 10500 face 32223 winding plane unequal to face plane
+area 10501 face 32322 winding plane unequal to face plane
+area 10501 face 32210 winding plane unequal to face plane
+area 10506 face 32210 winding plane unequal to face plane
+area 10522 face 31987 winding plane unequal to face plane
+area 10524 face 31987 winding plane unequal to face plane
+area 10528 face 31987 winding plane unequal to face plane
+area 10559 face 31658 winding plane unequal to face plane
+area 10560 face 31658 winding plane unequal to face plane
+area 10567 face 31555 winding plane unequal to face plane
+area 10568 face 31555 winding plane unequal to face plane
+area 10570 face 31555 winding plane unequal to face plane
+area 10583 face 31357 winding plane unequal to face plane
+area 10590 face 31357 winding plane unequal to face plane
+area 10593 face 31357 winding plane unequal to face plane
+area 10593 face 31334 winding plane unequal to face plane
+area 10596 face 31334 winding plane unequal to face plane
+area 10627 face 30984 winding plane unequal to face plane
+area 10628 face 30984 winding plane unequal to face plane
+area 10637 face 30867 winding plane unequal to face plane
+area 10637 face 30868 winding plane unequal to face plane
+area 10638 face 30858 winding plane unequal to face plane
+area 10639 face 30858 winding plane unequal to face plane
+area 10648 face 30715 winding plane unequal to face plane
+area 10649 face 30715 winding plane unequal to face plane
+area 10650 face 30701 winding plane unequal to face plane
+area 10654 face 30647 winding plane unequal to face plane
+area 10655 face 30647 winding plane unequal to face plane
+area 10664 face 30562 winding plane unequal to face plane
+area 10665 face 30415 winding plane unequal to face plane
+area 10680 face 30415 winding plane unequal to face plane
+area 10750 face 29134 winding plane unequal to face plane
+area 10751 face 29134 winding plane unequal to face plane
+area 10838 face 28137 winding plane unequal to face plane
+area 10847 face 27928 winding plane unequal to face plane
+area 10849 face 27293 winding plane unequal to face plane
+area 10849 face 27294 winding plane unequal to face plane
+area 10901 face 27312 winding plane unequal to face plane
+area 10908 face 27109 winding plane unequal to face plane
+area 10937 face 26636 winding plane unequal to face plane
+area 10960 face 26287 winding plane unequal to face plane
+area 10961 face 26287 winding plane unequal to face plane
+area 10963 face 26287 winding plane unequal to face plane
+area 10976 face 25216 winding plane unequal to face plane
+area 10985 face 25216 winding plane unequal to face plane
+area 10990 face 25871 winding plane unequal to face plane
+area 10990 face 25872 winding plane unequal to face plane
+area 10991 face 25871 winding plane unequal to face plane
+area 10991 face 25872 winding plane unequal to face plane
+area 10997 face 25789 winding plane unequal to face plane
+area 11002 face 25354 winding plane unequal to face plane
+area 11002 face 25355 winding plane unequal to face plane
+area 11004 face 25697 winding plane unequal to face plane
+area 11006 face 25697 winding plane unequal to face plane
+area 11024 face 25320 winding plane unequal to face plane
+area 11033 face 25169 winding plane unequal to face plane
+area 11036 face 25169 winding plane unequal to face plane
+area 11037 face 25126 winding plane unequal to face plane
+area 11040 face 24991 winding plane unequal to face plane
+area 11046 face 24865 winding plane unequal to face plane
+area 11047 face 24865 winding plane unequal to face plane
+area 11048 face 24844 winding plane unequal to face plane
+area 11063 face 24652 winding plane unequal to face plane
+area 11063 face 49808 winding plane unequal to face plane
+area 11075 face 24495 winding plane unequal to face plane
+area 11082 face 24343 winding plane unequal to face plane
+area 11084 face 24343 winding plane unequal to face plane
+area 11085 face 24343 winding plane unequal to face plane
+area 11137 face 23678 winding plane unequal to face plane
+area 11150 face 23600 winding plane unequal to face plane
+area 11153 face 23544 winding plane unequal to face plane
+area 11154 face 23545 winding plane unequal to face plane
+area 11156 face 23524 winding plane unequal to face plane
+area 11157 face 23544 winding plane unequal to face plane
+area 11157 face 23545 winding plane unequal to face plane
+area 11192 face 23077 winding plane unequal to face plane
+area 11192 face 23065 winding plane unequal to face plane
+area 11194 face 23065 winding plane unequal to face plane
+area 11194 face 23077 winding plane unequal to face plane
+area 11197 face 23077 winding plane unequal to face plane
+area 11213 face 22903 winding plane unequal to face plane
+area 11236 face 22585 winding plane unequal to face plane
+area 11239 face 22567 winding plane unequal to face plane
+area 11240 face 22567 winding plane unequal to face plane
+area 11249 face 22224 winding plane unequal to face plane
+area 11262 face 22103 winding plane unequal to face plane
+area 11265 face 22019 winding plane unequal to face plane
+area 11265 face 22023 winding plane unequal to face plane
+area 11265 face 22024 winding plane unequal to face plane
+area 11266 face 22024 winding plane unequal to face plane
+area 11266 face 22023 winding plane unequal to face plane
+area 11297 face 21458 winding plane unequal to face plane
+area 11298 face 21460 winding plane unequal to face plane
+area 11303 face 21637 winding plane unequal to face plane
+area 11409 face 20092 winding plane unequal to face plane
+area 11410 face 20093 winding plane unequal to face plane
+area 11517 face 18505 winding plane unequal to face plane
+area 11517 face 18498 winding plane unequal to face plane
+area 11534 face 18202 winding plane unequal to face plane
+area 11534 face 47866 winding plane unequal to face plane
+area 11561 face 17798 winding plane unequal to face plane
+area 11564 face 17798 winding plane unequal to face plane
+area 11590 face 16471 winding plane unequal to face plane
+area 11591 face 16446 winding plane unequal to face plane
+area 11644 face 16887 winding plane unequal to face plane
+area 11648 face 16887 winding plane unequal to face plane
+area 11664 face 16887 winding plane unequal to face plane
+area 11695 face 16471 winding plane unequal to face plane
+area 11697 face 16446 winding plane unequal to face plane
+area 11698 face 15892 winding plane unequal to face plane
+area 11705 face 15710 winding plane unequal to face plane
+area 11710 face 15710 winding plane unequal to face plane
+area 11729 face 15892 winding plane unequal to face plane
+area 11737 face 15710 winding plane unequal to face plane
+area 11738 face 15710 winding plane unequal to face plane
+area 11819 face 14824 winding plane unequal to face plane
+area 11823 face 14852 winding plane unequal to face plane
+area 11835 face 14717 winding plane unequal to face plane
+area 11847 face 14619 winding plane unequal to face plane
+area 11858 face 14486 winding plane unequal to face plane
+area 11872 face 46952 winding plane unequal to face plane
+area 11980 face 11699 winding plane unequal to face plane
+area 11990 face 11699 winding plane unequal to face plane
+area 12026 face 11314 winding plane unequal to face plane
+area 12032 face 11077 winding plane unequal to face plane
+area 12033 face 11077 winding plane unequal to face plane
+area 12037 face 11092 winding plane unequal to face plane
+area 12040 face 11077 winding plane unequal to face plane
+area 12045 face 11023 winding plane unequal to face plane
+area 12046 face 11023 winding plane unequal to face plane
+area 12252 face 7688 winding plane unequal to face plane
+area 12253 face 7688 winding plane unequal to face plane
+area 12253 face 7687 winding plane unequal to face plane
+area 12254 face 7687 winding plane unequal to face plane
+area 12255 face 7688 winding plane unequal to face plane
+area 12257 face 7687 winding plane unequal to face plane
+area 12272 face 7506 winding plane unequal to face plane
+area 12273 face 7450 winding plane unequal to face plane
+area 12274 face 7450 winding plane unequal to face plane
+area 12274 face 7435 winding plane unequal to face plane
+area 12276 face 7435 winding plane unequal to face plane
+area 12293 face 7176 winding plane unequal to face plane
+area 12294 face 7176 winding plane unequal to face plane
+area 12317 face 6440 winding plane unequal to face plane
+area 12375 face 5561 winding plane unequal to face plane
+area 12450 face 4446 winding plane unequal to face plane
+area 12451 face 4446 winding plane unequal to face plane
+area 12453 face 4446 winding plane unequal to face plane
+area 12774 face 7450 winding plane unequal to face plane
+area 12821 face 11077 winding plane unequal to face plane
+area 12826 face 11829 winding plane unequal to face plane
+area 12845 face 14486 winding plane unequal to face plane
+area 12851 face 14717 winding plane unequal to face plane
+area 12864 face 14717 winding plane unequal to face plane
+area 12895 face 16471 winding plane unequal to face plane
+area 12906 face 16887 winding plane unequal to face plane
+area 12920 face 16471 winding plane unequal to face plane
+area 12920 face 16446 winding plane unequal to face plane
+area 12923 face 17798 winding plane unequal to face plane
+area 12947 face 49122 winding plane unequal to face plane
+area 12980 face 22023 winding plane unequal to face plane
+area 12980 face 22024 winding plane unequal to face plane
+area 12981 face 22224 winding plane unequal to face plane
+area 12991 face 23077 winding plane unequal to face plane
+area 12991 face 23065 winding plane unequal to face plane
+area 12999 face 23524 winding plane unequal to face plane
+area 13000 face 23544 winding plane unequal to face plane
+area 13000 face 23545 winding plane unequal to face plane
+area 13002 face 23600 winding plane unequal to face plane
+area 13018 face 49808 winding plane unequal to face plane
+area 13018 face 24652 winding plane unequal to face plane
+area 13019 face 24844 winding plane unequal to face plane
+area 13020 face 24844 winding plane unequal to face plane
+area 13023 face 25216 winding plane unequal to face plane
+area 13028 face 25355 winding plane unequal to face plane
+area 13028 face 25354 winding plane unequal to face plane
+area 13029 face 25789 winding plane unequal to face plane
+area 13036 face 26287 winding plane unequal to face plane
+area 13043 face 27109 winding plane unequal to face plane
+area 13053 face 27928 winding plane unequal to face plane
+area 13053 face 27294 winding plane unequal to face plane
+area 13053 face 27293 winding plane unequal to face plane
+area 13084 face 30415 winding plane unequal to face plane
+area 13088 face 30562 winding plane unequal to face plane
+area 13089 face 30647 winding plane unequal to face plane
+area 13090 face 30858 winding plane unequal to face plane
+area 13091 face 30715 winding plane unequal to face plane
+area 13095 face 30858 winding plane unequal to face plane
+area 13096 face 30868 winding plane unequal to face plane
+area 13096 face 30867 winding plane unequal to face plane
+area 13098 face 30984 winding plane unequal to face plane
+area 13106 face 31357 winding plane unequal to face plane
+area 13109 face 31334 winding plane unequal to face plane
+area 13109 face 31357 winding plane unequal to face plane
+area 13110 face 31357 winding plane unequal to face plane
+area 13110 face 31334 winding plane unequal to face plane
+area 13111 face 31334 winding plane unequal to face plane
+area 13111 face 31357 winding plane unequal to face plane
+area 13119 face 32210 winding plane unequal to face plane
+area 13119 face 32322 winding plane unequal to face plane
+area 13119 face 31987 winding plane unequal to face plane
+area 13120 face 31987 winding plane unequal to face plane
+area 13124 face 32223 winding plane unequal to face plane
+area 13124 face 32222 winding plane unequal to face plane
+area 13130 face 32656 winding plane unequal to face plane
+area 13144 face 33394 winding plane unequal to face plane
+area 13148 face 33470 winding plane unequal to face plane
+area 13154 face 34265 winding plane unequal to face plane
+area 13154 face 34241 winding plane unequal to face plane
+area 13154 face 34239 winding plane unequal to face plane
+area 13155 face 34234 winding plane unequal to face plane
+area 13167 face 34871 winding plane unequal to face plane
+area 13172 face 36235 winding plane unequal to face plane
+area 13177 face 36053 winding plane unequal to face plane
+area 13179 face 36235 winding plane unequal to face plane
+area 13180 face 36235 winding plane unequal to face plane
+area 13181 face 36396 winding plane unequal to face plane
+area 13249 face 48987 winding plane unequal to face plane
+area 13261 face 30858 winding plane unequal to face plane
+area 13278 face 34234 winding plane unequal to face plane
+area 13283 face 26287 winding plane unequal to face plane
+area 13284 face 23524 winding plane unequal to face plane
+area 13288 face 16446 winding plane unequal to face plane
+area 13288 face 16471 winding plane unequal to face plane
+  3791 areas merged
+AAS_PruneNodes
+  5708 nodes pruned
+  4983 areas checked for shared face flipping
+AAS_MergeAreaFaces
+  9445 face merges
+AAS_LadderSubdivision
+     0 ladder subdivisions
+AAS_MeltAreaFaceWindings
+ 18931 edges melted
+AAS_RemoveTinyFaces
+area 13284 face 23524 is tiny
+area 13283 face 26216 is tiny
+area 13261 face 30750 is tiny
+area 13204 face 38076 is tiny
+area 13202 face 37598 is tiny
+area 13202 face 37617 is tiny
+area 13202 face 37671 is tiny
+area 13202 face 37621 is tiny
+area 13202 face 37676 is tiny
+area 13201 face 37656 is tiny
+area 13182 face 35358 is tiny
+area 13177 face 35961 is tiny
+area 13177 face 36066 is tiny
+area 13131 face 32547 is tiny
+area 13119 face 31991 is tiny
+area 13113 face 51023 is tiny
+area 13102 face 31163 is tiny
+area 13086 face 30448 is tiny
+area 13085 face 30237 is tiny
+area 13053 face 27928 is tiny
+area 13053 face 27840 is tiny
+area 13052 face 27766 is tiny
+area 13043 face 27109 is tiny
+area 13020 face 24844 is tiny
+area 13018 face 49808 is tiny
+area 13018 face 24652 is tiny
+area 13015 face 24154 is tiny
+area 13015 face 24153 is tiny
+area 13012 face 23912 is tiny
+area 13008 face 23696 is tiny
+area 13000 face 23545 is tiny
+area 12996 face 23341 is tiny
+area 12977 face 21522 is tiny
+area 12977 face 21851 is tiny
+area 12977 face 21850 is tiny
+area 12976 face 21724 is tiny
+area 12922 face 18208 is tiny
+area 12918 face 16974 is tiny
+area 12909 face 16985 is tiny
+area 12906 face 17116 is tiny
+area 12906 face 17158 is tiny
+area 12903 face 16816 is tiny
+area 12899 face 16630 is tiny
+area 12899 face 16628 is tiny
+area 12887 face 15832 is tiny
+area 12887 face 15833 is tiny
+area 12865 face 14771 is tiny
+area 12849 face 14673 is tiny
+area 12827 face 11539 is tiny
+area 12824 face 11721 is tiny
+area 12815 face 9845 is tiny
+area 12529 face 2710 is tiny
+area 12518 face 2773 is tiny
+area 12426 face 4881 is tiny
+area 12375 face 5562 is tiny
+area 12367 face 5706 is tiny
+area 12359 face 5833 is tiny
+area 12337 face 6264 is tiny
+area 12326 face 6383 is tiny
+area 12317 face 6440 is tiny
+area 12272 face 7506 is tiny
+area 12241 face 7782 is tiny
+area 12064 face 10532 is tiny
+area 12033 face 11179 is tiny
+area 12026 face 11314 is tiny
+area 12016 face 11410 is tiny
+area 12010 face 11473 is tiny
+area 11990 face 11690 is tiny
+area 11910 face 13247 is tiny
+area 11907 face 13192 is tiny
+area 11847 face 14619 is tiny
+area 11844 face 14652 is tiny
+area 11844 face 14653 is tiny
+area 11800 face 15115 is tiny
+area 11783 face 14584 is tiny
+area 11755 face 47531 is tiny
+area 11755 face 15424 is tiny
+area 11709 face 16276 is tiny
+area 11699 face 16401 is tiny
+area 11699 face 16391 is tiny
+area 11698 face 16424 is tiny
+area 11686 face 16590 is tiny
+area 11673 face 16757 is tiny
+area 11672 face 16785 is tiny
+area 11672 face 16786 is tiny
+area 11672 face 16777 is tiny
+area 11672 face 16780 is tiny
+area 11652 face 17039 is tiny
+area 11638 face 17198 is tiny
+area 11623 face 16829 is tiny
+area 11623 face 17276 is tiny
+area 11623 face 17294 is tiny
+area 11620 face 16848 is tiny
+area 11614 face 16897 is tiny
+area 11586 face 131723276 is tiny
+area 11567 face 166029644 is tiny
+area 11565 face 17802 is tiny
+area 11534 face 18243 is tiny
+area 11534 face 18202 is tiny
+area 11527 face 18196 is tiny
+area 11420 face 20003 is tiny
+area 11420 face 15970 is tiny
+area 11412 face 20058 is tiny
+area 11408 face 17893 is tiny
+area 11306 face 21639 is tiny
+area 11304 face 202050604 is tiny
+area 11302 face 21710 is tiny
+area 11298 face 21607 is tiny
+area 11297 face 21458 is tiny
+area 11290 face 21833 is tiny
+area 11259 face 22159 is tiny
+area 11236 face 22585 is tiny
+area 11193 face 23113 is tiny
+area 11172 face 23363 is tiny
+area 11167 face 23430 is tiny
+area 11165 face 23451 is tiny
+area 11160 face 23516 is tiny
+area 11111 face 23898 is tiny
+area 11086 face 24214 is tiny
+area 11078 face 166239420 is tiny
+area 11077 face 24440 is tiny
+area 11058 face 24723 is tiny
+area 11052 face 24798 is tiny
+area 11036 face 25164 is tiny
+area 10984 face 25811 is tiny
+area 10981 face 25969 is tiny
+area 10981 face 25970 is tiny
+area 10980 face 25976 is tiny
+area 10977 face 25998 is tiny
+area 10970 face 26126 is tiny
+area 10904 face 27249 is tiny
+area 10902 face 27272 is tiny
+area 10853 face 27772 is tiny
+area 10842 face 28185 is tiny
+area 10842 face 28159 is tiny
+area 10823 face 28055 is tiny
+area 10760 face 29066 is tiny
+area 10736 face 26259 is tiny
+area 10732 face 203138348 is tiny
+area 10707 face 29909 is tiny
+area 10696 face 30214 is tiny
+area 10683 face 30388 is tiny
+area 10645 face 30796 is tiny
+area 10632 face 30923 is tiny
+area 10618 face 50960 is tiny
+area 10572 face 31526 is tiny
+area 10318 face 34370 is tiny
+area 10318 face 34364 is tiny
+area 10282 face 34860 is tiny
+area 10277 face 34949 is tiny
+area 10277 face 34950 is tiny
+area 10259 face 35831 is tiny
+area 10233 face 36172 is tiny
+area 10233 face 36174 is tiny
+area 10201 face 34855 is tiny
+area 10200 face 36727 is tiny
+area 10200 face 36659 is tiny
+area 10200 face 36712 is tiny
+area 10200 face 52576 is tiny
+area 10199 face 36733 is tiny
+area 10128 face 37567 is tiny
+area 10124 face 37653 is tiny
+area 10124 face 37657 is tiny
+area 10124 face 37622 is tiny
+area 10124 face 37610 is tiny
+area 10116 face 37718 is tiny
+area 10116 face 37561 is tiny
+area 10116 face 37562 is tiny
+area 10077 face 204365692 is tiny
+area 9855 face 43366 is tiny
+area 9809 face 6119 is tiny
+area 9756 face 12858 is tiny
+area 9708 face 166055404 is tiny
+area 9694 face 19194 is tiny
+area 9679 face 166144908 is tiny
+area 9676 face 20333 is tiny
+area 9676 face 166133692 is tiny
+area 9647 face 49805 is tiny
+area 9599 face 35341 is tiny
+area 9583 face 36475 is tiny
+area 9177 face 166483052 is tiny
+area 9062 face 51036 is tiny
+area 9045 face 50874 is tiny
+area 9037 face 166336300 is tiny
+area 9037 face 50779 is tiny
+area 8924 face 166234524 is tiny
+area 8899 face 166215612 is tiny
+area 8855 face 166166700 is tiny
+area 8853 face 49103 is tiny
+area 8845 face 78799820 is tiny
+area 8801 face 166102332 is tiny
+area 8715 face 47868 is tiny
+area 8701 face 47754 is tiny
+area 8641 face 47239 is tiny
+area 8575 face 46677 is tiny
+area 8460 face 221442220 is tiny
+area 8396 face 221359868 is tiny
+area 8084 face 221097468 is tiny
+area 7540 face 38889 is tiny
+area 7341 face 37771 is tiny
+area 7333 face 37595 is tiny
+area 7308 face 37612 is tiny
+area 7308 face 37505 is tiny
+area 7305 face 37579 is tiny
+area 7300 face 37496 is tiny
+area 7298 face 37569 is tiny
+area 7293 face 37489 is tiny
+area 7133 face 36797 is tiny
+area 7110 face 36691 is tiny
+area 7108 face 36687 is tiny
+area 7107 face 36677 is tiny
+area 7103 face 36655 is tiny
+area 7041 face 36376 is tiny
+area 6991 face 36128 is tiny
+area 6991 face 36127 is tiny
+area 6645 face 34174 is tiny
+area 6226 face 32185 is tiny
+area 6162 face 31866 is tiny
+area 5956 face 30913 is tiny
+area 5943 face 30835 is tiny
+area 5940 face 30831 is tiny
+area 5884 face 30006 is tiny
+area 5860 face 30518 is tiny
+area 5793 face 30085 is tiny
+area 5768 face 23902 is tiny
+area 5741 face 29883 is tiny
+area 5688 face 29514 is tiny
+area 5686 face 29525 is tiny
+area 5685 face 29523 is tiny
+area 5684 face 29517 is tiny
+area 5666 face 29326 is tiny
+area 5606 face 26075 is tiny
+area 5456 face 28452 is tiny
+area 5456 face 28140 is tiny
+area 5411 face 28216 is tiny
+area 5410 face 28218 is tiny
+area 5258 face 25499 is tiny
+area 5258 face 27479 is tiny
+area 4988 face 26039 is tiny
+area 4923 face 25606 is tiny
+area 4778 face 24820 is tiny
+area 4777 face 24863 is tiny
+area 4765 face 24668 is tiny
+area 4746 face 24732 is tiny
+area 4733 face 24647 is tiny
+area 4716 face 24574 is tiny
+area 4708 face 24479 is tiny
+area 4695 face 24493 is tiny
+area 4670 face 24380 is tiny
+area 4582 face 23867 is tiny
+area 4474 face 23447 is tiny
+area 4447 face 23302 is tiny
+area 4347 face 22772 is tiny
+area 4307 face 22580 is tiny
+area 4297 face 22517 is tiny
+area 4290 face 21493 is tiny
+area 4237 face 22235 is tiny
+area 4178 face 21521 is tiny
+area 4150 face 21823 is tiny
+area 4122 face 21712 is tiny
+area 4118 face 21692 is tiny
+area 4083 face 21483 is tiny
+area 4079 face 21296 is tiny
+area 3986 face 20904 is tiny
+area 3984 face 20891 is tiny
+area 3904 face 20514 is tiny
+area 3903 face 20536 is tiny
+area 3899 face 20516 is tiny
+area 3898 face 20447 is tiny
+area 3812 face 17894 is tiny
+area 3447 face 18125 is tiny
+area 3311 face 16025 is tiny
+area 3305 face 17644 is tiny
+area 3301 face 17633 is tiny
+area 3172 face 17211 is tiny
+area 3134 face 16986 is tiny
+area 3130 face 16799 is tiny
+area 3057 face 16599 is tiny
+area 3056 face 16597 is tiny
+area 3048 face 16547 is tiny
+area 3036 face 16489 is tiny
+area 3020 face 16389 is tiny
+area 2981 face 16192 is tiny
+area 2981 face 16189 is tiny
+area 2979 face 16171 is tiny
+area 2971 face 16146 is tiny
+area 2914 face 15768 is tiny
+area 2776 face 14810 is tiny
+area 2698 face 14737 is tiny
+area 2621 face 14357 is tiny
+area 2497 face 13695 is tiny
+area 2497 face 13698 is tiny
+area 2496 face 13696 is tiny
+area 2494 face 13191 is tiny
+area 2493 face 13650 is tiny
+area 2472 face 13511 is tiny
+area 2471 face 13506 is tiny
+area 2470 face 13024 is tiny
+area 2422 face 201068188 is tiny
+area 2407 face 13173 is tiny
+area 2386 face 13031 is tiny
+area 2385 face 13020 is tiny
+area 2332 face 12642 is tiny
+area 2327 face 12598 is tiny
+area 2323 face 12436 is tiny
+area 2306 face 12395 is tiny
+area 2080 face 11378 is tiny
+area 1798 face 9652 is tiny
+area 1495 face 8229 is tiny
+area 1378 face 7713 is tiny
+area 1378 face 7711 is tiny
+area 1361 face 7629 is tiny
+area 1360 face 7627 is tiny
+area 1315 face 7414 is tiny
+area 1312 face 7391 is tiny
+area 1176 face 6624 is tiny
+area 1176 face 6622 is tiny
+area 1142 face 5547 is tiny
+area 1111 face 6241 is tiny
+area 1089 face 6141 is tiny
+area 1057 face 5966 is tiny
+area 1043 face 5888 is tiny
+area 937 face 123792188 is tiny
+area 937 face 5287 is tiny
+area 936 face 5277 is tiny
+area 935 face 5278 is tiny
+area 870 face 4840 is tiny
+area 768 face 4335 is tiny
+area 552 face 3227 is tiny
+area 425 face 2538 is tiny
+area 164 face 78792180 is tiny
+area 100 face 670 is tiny
+AAS_CreateAreaSettings
+---- tmp area 13266 and 13038 have 3 shared faces
+face 26351, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+face 26354, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+face 26347, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+---- tmp area 13265 and 9518 have 2 shared faces
+face 54983, planenum = 22422, face->frontarea = 13265 face->backarea = 9518
+face 54970, planenum = 22405, face->frontarea = 13265 face->backarea = 9518
+---- tmp area 13260 and 10812 have 2 shared faces
+face 50349, planenum = 132, face->frontarea = 13260 face->backarea = 10812
+face 50328, planenum = 132, face->frontarea = 13260 face->backarea = 10812
+---- tmp area 13260 and 9635 have 2 shared faces
+face 50330, planenum = 2530, face->frontarea = 9635 face->backarea = 13260
+face 50319, planenum = 2530, face->frontarea = 9635 face->backarea = 13260
+---- tmp area 13148 and 10431 have 2 shared faces
+face 33211, planenum = 12412, face->frontarea = 10431 face->backarea = 13148
+face 33212, planenum = 12412, face->frontarea = 10431 face->backarea = 13148
+---- tmp area 13111 and 10596 have 2 shared faces
+face 31333, planenum = 3538, face->frontarea = 10596 face->backarea = 13111
+face 31340, planenum = 3538, face->frontarea = 10596 face->backarea = 13111
+---- tmp area 13102 and 10611 have 2 shared faces
+face 31179, planenum = 1300, face->frontarea = 13102 face->backarea = 10611
+face 31193, planenum = 1300, face->frontarea = 13102 face->backarea = 10611
+---- tmp area 13038 and 13266 have 3 shared faces
+face 26354, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+face 26351, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+face 26347, planenum = 14574, face->frontarea = 13038 face->backarea = 13266
+---- tmp area 13022 and 11032 have 2 shared faces
+face 25174, planenum = 13772, face->frontarea = 11032 face->backarea = 13022
+face 25140, planenum = 13772, face->frontarea = 11032 face->backarea = 13022
+---- tmp area 13003 and 11170 have 2 shared faces
+face 23402, planenum = 3656, face->frontarea = 11170 face->backarea = 13003
+face 23387, planenum = 3656, face->frontarea = 11170 face->backarea = 13003
+---- tmp area 13002 and 12992 have 2 shared faces
+face 23141, planenum = 1236, face->frontarea = 12992 face->backarea = 13002
+face 23139, planenum = 1236, face->frontarea = 12992 face->backarea = 13002
+---- tmp area 13000 and 11157 have 2 shared faces
+face 23544, planenum = 1642, face->frontarea = 11157 face->backarea = 13000
+face 23553, planenum = 1642, face->frontarea = 11157 face->backarea = 13000
+---- tmp area 12992 and 13002 have 2 shared faces
+face 23141, planenum = 1236, face->frontarea = 12992 face->backarea = 13002
+face 23139, planenum = 1236, face->frontarea = 12992 face->backarea = 13002
+---- tmp area 12979 and 4094 have 2 shared faces
+face 21570, planenum = 2122, face->frontarea = 4094 face->backarea = 12979
+face 21569, planenum = 2122, face->frontarea = 4094 face->backarea = 12979
+---- tmp area 12731 and 12558 have 2 shared faces
+face 2041, planenum = 14336, face->frontarea = 12731 face->backarea = 12558
+face 3468, planenum = 14336, face->frontarea = 12731 face->backarea = 12558
+---- tmp area 12653 and 12649 have 2 shared faces
+face 552, planenum = 18174, face->frontarea = 12653 face->backarea = 12649
+face 557, planenum = 18174, face->frontarea = 12653 face->backarea = 12649
+---- tmp area 12649 and 12653 have 2 shared faces
+face 552, planenum = 18174, face->frontarea = 12653 face->backarea = 12649
+face 557, planenum = 18174, face->frontarea = 12653 face->backarea = 12649
+---- tmp area 12558 and 12731 have 2 shared faces
+face 3468, planenum = 14336, face->frontarea = 12731 face->backarea = 12558
+face 2041, planenum = 14336, face->frontarea = 12731 face->backarea = 12558
+---- tmp area 12264 and 12263 have 2 shared faces
+face 7576, planenum = 19564, face->frontarea = 12264 face->backarea = 12263
+face 7572, planenum = 19564, face->frontarea = 12264 face->backarea = 12263
+---- tmp area 12263 and 12264 have 2 shared faces
+face 7576, planenum = 19564, face->frontarea = 12264 face->backarea = 12263
+face 7572, planenum = 19564, face->frontarea = 12264 face->backarea = 12263
+---- tmp area 12257 and 12253 have 2 shared faces
+face 7687, planenum = 19648, face->frontarea = 12257 face->backarea = 12253
+face 7659, planenum = 19648, face->frontarea = 12257 face->backarea = 12253
+---- tmp area 12253 and 12257 have 2 shared faces
+face 7687, planenum = 19648, face->frontarea = 12257 face->backarea = 12253
+face 7659, planenum = 19648, face->frontarea = 12257 face->backarea = 12253
+---- tmp area 12231 and 12227 have 2 shared faces
+face 8076, planenum = 20270, face->frontarea = 12231 face->backarea = 12227
+face 8078, planenum = 20270, face->frontarea = 12231 face->backarea = 12227
+---- tmp area 12227 and 12231 have 2 shared faces
+face 8076, planenum = 20270, face->frontarea = 12231 face->backarea = 12227
+face 8078, planenum = 20270, face->frontarea = 12231 face->backarea = 12227
+---- tmp area 12046 and 2015 have 2 shared faces
+face 11023, planenum = 16350, face->frontarea = 2015 face->backarea = 12046
+face 11022, planenum = 16350, face->frontarea = 2015 face->backarea = 12046
+---- tmp area 11974 and 11949 have 2 shared faces
+face 46065, planenum = 312, face->frontarea = 11974 face->backarea = 11949
+face 46080, planenum = 312, face->frontarea = 11974 face->backarea = 11949
+---- tmp area 11949 and 11974 have 2 shared faces
+face 46065, planenum = 312, face->frontarea = 11974 face->backarea = 11949
+face 46080, planenum = 312, face->frontarea = 11974 face->backarea = 11949
+---- tmp area 11199 and 11197 have 2 shared faces
+face 23056, planenum = 1408, face->frontarea = 11199 face->backarea = 11197
+face 23019, planenum = 1408, face->frontarea = 11199 face->backarea = 11197
+---- tmp area 11197 and 11199 have 2 shared faces
+face 23056, planenum = 1408, face->frontarea = 11199 face->backarea = 11197
+face 23019, planenum = 1408, face->frontarea = 11199 face->backarea = 11197
+---- tmp area 11170 and 13003 have 2 shared faces
+face 23387, planenum = 3656, face->frontarea = 11170 face->backarea = 13003
+face 23402, planenum = 3656, face->frontarea = 11170 face->backarea = 13003
+---- tmp area 11157 and 13000 have 2 shared faces
+face 23553, planenum = 1642, face->frontarea = 11157 face->backarea = 13000
+face 23544, planenum = 1642, face->frontarea = 11157 face->backarea = 13000
+---- tmp area 11094 and 11086 have 2 shared faces
+face 24139, planenum = 146, face->frontarea = 11094 face->backarea = 11086
+face 24133, planenum = 146, face->frontarea = 11094 face->backarea = 11086
+---- tmp area 11086 and 11094 have 2 shared faces
+face 24139, planenum = 146, face->frontarea = 11094 face->backarea = 11086
+face 24133, planenum = 146, face->frontarea = 11094 face->backarea = 11086
+---- tmp area 11032 and 13022 have 2 shared faces
+face 25174, planenum = 13772, face->frontarea = 11032 face->backarea = 13022
+face 25140, planenum = 13772, face->frontarea = 11032 face->backarea = 13022
+---- tmp area 11022 and 11018 have 2 shared faces
+face 25438, planenum = 4384, face->frontarea = 11022 face->backarea = 11018
+face 25373, planenum = 4384, face->frontarea = 11022 face->backarea = 11018
+---- tmp area 11018 and 11022 have 2 shared faces
+face 25438, planenum = 4384, face->frontarea = 11022 face->backarea = 11018
+face 25373, planenum = 4384, face->frontarea = 11022 face->backarea = 11018
+---- tmp area 10812 and 13260 have 2 shared faces
+face 50328, planenum = 132, face->frontarea = 13260 face->backarea = 10812
+face 50349, planenum = 132, face->frontarea = 13260 face->backarea = 10812
+---- tmp area 10695 and 5889 have 2 shared faces
+face 30216, planenum = 904, face->frontarea = 10695 face->backarea = 5889
+face 30164, planenum = 904, face->frontarea = 10695 face->backarea = 5889
+---- tmp area 10611 and 13102 have 2 shared faces
+face 31193, planenum = 1300, face->frontarea = 13102 face->backarea = 10611
+face 31179, planenum = 1300, face->frontarea = 13102 face->backarea = 10611
+---- tmp area 10596 and 13111 have 2 shared faces
+face 31340, planenum = 3538, face->frontarea = 10596 face->backarea = 13111
+face 31333, planenum = 3538, face->frontarea = 10596 face->backarea = 13111
+---- tmp area 10579 and 10574 have 2 shared faces
+face 31469, planenum = 406, face->frontarea = 10579 face->backarea = 10574
+face 31448, planenum = 406, face->frontarea = 10579 face->backarea = 10574
+---- tmp area 10579 and 6086 have 2 shared faces
+face 31465, planenum = 406, face->frontarea = 10579 face->backarea = 6086
+face 31449, planenum = 406, face->frontarea = 10579 face->backarea = 6086
+---- tmp area 10574 and 10579 have 2 shared faces
+face 31469, planenum = 406, face->frontarea = 10579 face->backarea = 10574
+face 31448, planenum = 406, face->frontarea = 10579 face->backarea = 10574
+---- tmp area 10531 and 10526 have 2 shared faces
+face 31972, planenum = 6462, face->frontarea = 10531 face->backarea = 10526
+face 31969, planenum = 6462, face->frontarea = 10531 face->backarea = 10526
+---- tmp area 10526 and 10531 have 2 shared faces
+face 31972, planenum = 6462, face->frontarea = 10531 face->backarea = 10526
+face 31969, planenum = 6462, face->frontarea = 10531 face->backarea = 10526
+---- tmp area 10431 and 13148 have 2 shared faces
+face 33211, planenum = 12412, face->frontarea = 10431 face->backarea = 13148
+face 33212, planenum = 12412, face->frontarea = 10431 face->backarea = 13148
+---- tmp area 10271 and 9598 have 2 shared faces
+face 36463, planenum = 5174, face->frontarea = 9598 face->backarea = 10271
+face 52006, planenum = 5174, face->frontarea = 9598 face->backarea = 10271
+---- tmp area 10270 and 9172 have 2 shared faces
+face 52104, planenum = 5176, face->frontarea = 9172 face->backarea = 10270
+face 52102, planenum = 5176, face->frontarea = 9172 face->backarea = 10270
+---- tmp area 10269 and 10223 have 2 shared faces
+face 36374, planenum = 5204, face->frontarea = 10269 face->backarea = 10223
+face 36370, planenum = 5204, face->frontarea = 10269 face->backarea = 10223
+---- tmp area 10223 and 10269 have 2 shared faces
+face 36370, planenum = 5204, face->frontarea = 10269 face->backarea = 10223
+face 36374, planenum = 5204, face->frontarea = 10269 face->backarea = 10223
+---- tmp area 9711 and 8715 have 2 shared faces
+face 47871, planenum = 3216, face->frontarea = 9711 face->backarea = 8715
+face 47875, planenum = 3216, face->frontarea = 9711 face->backarea = 8715
+---- tmp area 9635 and 13260 have 2 shared faces
+face 50319, planenum = 2530, face->frontarea = 9635 face->backarea = 13260
+face 50330, planenum = 2530, face->frontarea = 9635 face->backarea = 13260
+---- tmp area 9598 and 10271 have 2 shared faces
+face 36463, planenum = 5174, face->frontarea = 9598 face->backarea = 10271
+face 52006, planenum = 5174, face->frontarea = 9598 face->backarea = 10271
+---- tmp area 9518 and 13265 have 2 shared faces
+face 54983, planenum = 22422, face->frontarea = 13265 face->backarea = 9518
+face 54970, planenum = 22405, face->frontarea = 13265 face->backarea = 9518
+---- tmp area 9518 and 7998 have 2 shared faces
+face 54991, planenum = 98, face->frontarea = 7998 face->backarea = 9518
+face 54977, planenum = 98, face->frontarea = 7998 face->backarea = 9518
+---- tmp area 9172 and 10270 have 2 shared faces
+face 52104, planenum = 5176, face->frontarea = 9172 face->backarea = 10270
+face 52102, planenum = 5176, face->frontarea = 9172 face->backarea = 10270
+---- tmp area 8715 and 9711 have 2 shared faces
+face 47875, planenum = 3216, face->frontarea = 9711 face->backarea = 8715
+face 47871, planenum = 3216, face->frontarea = 9711 face->backarea = 8715
+---- tmp area 7998 and 9518 have 2 shared faces
+face 54991, planenum = 98, face->frontarea = 7998 face->backarea = 9518
+face 54977, planenum = 98, face->frontarea = 7998 face->backarea = 9518
+---- tmp area 6086 and 10579 have 2 shared faces
+face 31449, planenum = 406, face->frontarea = 10579 face->backarea = 6086
+face 31465, planenum = 406, face->frontarea = 10579 face->backarea = 6086
+---- tmp area 5889 and 10695 have 2 shared faces
+face 30164, planenum = 904, face->frontarea = 10695 face->backarea = 5889
+face 30216, planenum = 904, face->frontarea = 10695 face->backarea = 5889
+---- tmp area 4094 and 12979 have 2 shared faces
+face 21570, planenum = 2122, face->frontarea = 4094 face->backarea = 12979
+face 21569, planenum = 2122, face->frontarea = 4094 face->backarea = 12979
+---- tmp area 2015 and 12046 have 2 shared faces
+face 11023, planenum = 16350, face->frontarea = 2015 face->backarea = 12046
+face 11022, planenum = 16350, face->frontarea = 2015 face->backarea = 12046
+allocated 6 MB and 624 KB and 580 bytes of AAS memory
+AAS_StoreFile
+AAS_GetFace: face 667 had degenerate edge 2-3
+AAS_GetFace: face 708 had degenerate edge 2-3
+AAS_GetFace: face 710 had degenerate edge 0-1
+AAS_GetFace: face 1756 had degenerate edge 2-3
+AAS_GetFace: face 1774 had degenerate edge 3-4
+AAS_GetFace: face 1777 had degenerate edge 3-4
+AAS_GetFace: face 3214 had degenerate edge 2-3
+AAS_GetFace: face 3607 had degenerate edge 0-1
+AAS_GetFace: face 3686 had degenerate edge 2-3
+AAS_GetFace: face 3962 had degenerate edge 0-1
+AAS_GetFace: face 3983 had degenerate edge 3-4
+AAS_GetFace: face 4203 had degenerate edge 0-1
+AAS_GetFace: face 4222 had degenerate edge 0-1
+AAS_GetFace: face 4242 had degenerate edge 2-3
+AAS_GetFace: face 4389 had degenerate edge 2-3
+AAS_GetFace: face 4394 had degenerate edge 1-2
+AAS_GetFace: face 4940 had degenerate edge 0-1
+AAS_GetFace: face 5076 had degenerate edge 2-3
+AAS_GetFace: face 5077 had degenerate edge 2-3
+AAS_GetFace: face 5097 had degenerate edge 0-1
+AAS_GetFace: face 5104 had degenerate edge 0-1
+AAS_GetFace: face 5111 had degenerate edge 1-2
+AAS_GetFace: face 5136 had degenerate edge 1-2
+AAS_GetFace: face 5217 had degenerate edge 0-1
+AAS_GetFace: face 5256 had degenerate edge 2-3
+AAS_GetFace: face 5293 had degenerate edge 2-3
+AAS_GetFace: face 5293 had degenerate edge 4-5
+AAS_GetFace: face 5424 had degenerate edge 1-2
+AAS_GetFace: face 5424 had degenerate edge 5-0
+AAS_GetFace: face 5432 had degenerate edge 1-2
+AAS_GetFace: face 5433 had degenerate edge 2-3
+AAS_GetFace: face 5439 had degenerate edge 0-1
+AAS_GetFace: face 5900 had degenerate edge 1-2
+AAS_GetFace: face 6030 had degenerate edge 0-1
+AAS_GetFace: face 6030 had degenerate edge 2-3
+AAS_GetFace: face 6355 had degenerate edge 1-2
+AAS_GetFace: face 6355 had degenerate edge 4-0
+AAS_GetFace: face 6357 had degenerate edge 1-2
+AAS_GetFace: face 6357 had degenerate edge 4-0
+AAS_GetFace: face 6397 had degenerate edge 2-3
+AAS_GetFace: face 6998 had degenerate edge 1-2
+AAS_GetFace: face 7007 had degenerate edge 3-4
+AAS_GetFace: face 7145 had degenerate edge 1-2
+AAS_GetFace: face 7146 had degenerate edge 3-4
+AAS_GetFace: face 7148 had degenerate edge 4-5
+AAS_GetFace: face 7747 had degenerate edge 1-2
+AAS_GetFace: face 7778 had degenerate edge 2-3
+AAS_GetFace: face 7780 had degenerate edge 1-2
+AAS_GetFace: face 8044 had degenerate edge 0-1
+AAS_GetFace: face 8051 had degenerate edge 0-1
+AAS_GetFace: face 8071 had degenerate edge 3-4
+AAS_GetFace: face 8170 had degenerate edge 1-2
+AAS_GetFace: face 8184 had degenerate edge 1-2
+AAS_GetFace: face 8747 had degenerate edge 2-3
+AAS_GetFace: face 9125 had degenerate edge 0-1
+AAS_GetFace: face 9357 had degenerate edge 2-3
+AAS_GetFace: face 9389 had degenerate edge 2-3
+AAS_GetFace: face 9683 had degenerate edge 5-6
+AAS_GetFace: face 10283 had degenerate edge 0-1
+AAS_GetFace: face 10335 had degenerate edge 0-1
+AAS_GetFace: face 10345 had degenerate edge 0-1
+AAS_GetFace: face 10514 had degenerate edge 1-2
+AAS_GetFace: face 10612 had degenerate edge 1-2
+AAS_GetFace: face 11140 had degenerate edge 1-2
+AAS_GetFace: face 11296 had degenerate edge 2-3
+AAS_GetFace: face 11670 had degenerate edge 3-4
+AAS_GetFace: face 11760 had degenerate edge 1-2
+AAS_GetFace: face 11821 had degenerate edge 2-3
+AAS_GetFace: face 11832 had degenerate edge 0-1
+AAS_GetFace: face 12182 had degenerate edge 0-1
+AAS_GetFace: face 12430 had degenerate edge 1-2
+AAS_GetFace: face 12716 had degenerate edge 1-2
+AAS_GetFace: face 13780 had degenerate edge 1-2
+AAS_GetFace: face 13836 had degenerate edge 2-3
+AAS_GetFace: face 13930 had degenerate edge 1-2
+AAS_GetFace: face 13932 had degenerate edge 2-3
+AAS_GetFace: face 13998 had degenerate edge 3-4
+AAS_GetFace: face 14010 had degenerate edge 0-1
+AAS_GetFace: face 14172 had degenerate edge 0-1
+AAS_GetFace: face 14178 had degenerate edge 3-4
+AAS_GetFace: face 14225 had degenerate edge 2-3
+AAS_GetFace: face 14229 had degenerate edge 2-3
+AAS_GetFace: face 14236 had degenerate edge 0-1
+AAS_GetFace: face 14278 had degenerate edge 2-3
+AAS_GetFace: face 14286 had degenerate edge 2-3
+AAS_GetFace: face 14291 had degenerate edge 4-5
+AAS_GetFace: face 14292 had degenerate edge 0-1
+AAS_GetFace: face 14957 had degenerate edge 5-6
+AAS_GetFace: face 15015 had degenerate edge 5-6
+AAS_GetFace: face 15025 had degenerate edge 1-2
+AAS_GetFace: face 15061 had degenerate edge 1-2
+AAS_GetFace: face 15101 had degenerate edge 2-3
+AAS_GetFace: face 15229 had degenerate edge 1-2
+AAS_GetFace: face 15350 had degenerate edge 2-3
+AAS_GetFace: face 15361 had degenerate edge 1-2
+AAS_GetFace: face 15745 had degenerate edge 0-1
+AAS_GetFace: face 15909 had degenerate edge 2-3
+AAS_GetFace: face 15910 had degenerate edge 1-2
+AAS_GetFace: face 15913 had degenerate edge 0-1
+AAS_GetFace: face 16156 had degenerate edge 3-4
+AAS_GetFace: face 16169 had degenerate edge 0-1
+AAS_GetFace: face 16200 had degenerate edge 1-2
+AAS_GetFace: face 16248 had degenerate edge 1-2
+AAS_GetFace: face 16268 had degenerate edge 0-1
+AAS_GetFace: face 16269 had degenerate edge 0-1
+AAS_GetFace: face 16337 had degenerate edge 1-2
+AAS_GetFace: face 16679 had degenerate edge 2-3
+AAS_GetFace: face 16686 had degenerate edge 0-1
+AAS_GetFace: face 16687 had degenerate edge 0-1
+AAS_GetFace: face 16701 had degenerate edge 0-1
+AAS_GetFace: face 16984 had degenerate edge 5-0
+AAS_GetFace: face 17006 had degenerate edge 2-3
+AAS_GetFace: face 17042 had degenerate edge 4-0
+AAS_GetFace: face 17059 had degenerate edge 0-1
+AAS_GetFace: face 17158 had degenerate edge 2-3
+AAS_GetFace: face 17167 had degenerate edge 1-2
+AAS_GetFace: face 17251 had degenerate edge 1-2
+AAS_GetFace: face 17268 had degenerate edge 4-0
+AAS_GetFace: face 17282 had degenerate edge 4-5
+AAS_GetFace: face 17283 had degenerate edge 2-3
+AAS_GetFace: face 17284 had degenerate edge 4-5
+AAS_GetFace: face 17286 had degenerate edge 4-5
+AAS_GetFace: face 17288 had degenerate edge 2-3
+AAS_GetFace: face 17288 had degenerate edge 4-5
+AAS_GetFace: face 17673 had degenerate edge 2-3
+AAS_GetFace: face 18023 had degenerate edge 1-2
+AAS_GetFace: face 18199 had degenerate edge 0-1
+AAS_GetFace: face 18206 had degenerate edge 3-0
+AAS_GetFace: face 18208 had degenerate edge 1-2
+AAS_GetFace: face 18224 had degenerate edge 2-3
+AAS_GetFace: face 18250 had degenerate edge 0-1
+AAS_GetFace: face 18256 had degenerate edge 3-4
+AAS_GetFace: face 18261 had degenerate edge 0-1
+AAS_GetFace: face 18303 had degenerate edge 0-1
+AAS_GetFace: face 18309 had degenerate edge 0-1
+AAS_GetFace: face 18309 had degenerate edge 2-3
+AAS_GetFace: face 18315 had degenerate edge 1-2
+AAS_GetFace: face 18315 had degenerate edge 3-4
+AAS_GetFace: face 18659 had degenerate edge 0-1
+AAS_GetFace: face 19326 had degenerate edge 2-3
+AAS_GetFace: face 19353 had degenerate edge 3-4
+AAS_GetFace: face 19357 had degenerate edge 2-3
+AAS_GetFace: face 19851 had degenerate edge 3-4
+AAS_GetFace: face 19917 had degenerate edge 0-1
+AAS_GetFace: face 19966 had degenerate edge 0-1
+AAS_GetFace: face 20126 had degenerate edge 0-1
+AAS_GetFace: face 20399 had degenerate edge 1-2
+AAS_GetFace: face 20499 had degenerate edge 0-1
+AAS_GetFace: face 20625 had degenerate edge 1-2
+AAS_GetFace: face 20668 had degenerate edge 0-1
+AAS_GetFace: face 20754 had degenerate edge 2-3
+AAS_GetFace: face 20816 had degenerate edge 4-5
+AAS_GetFace: face 20835 had degenerate edge 2-3
+AAS_GetFace: face 20857 had degenerate edge 1-2
+AAS_GetFace: face 20911 had degenerate edge 2-3
+AAS_GetFace: face 20917 had degenerate edge 3-4
+AAS_GetFace: face 20918 had degenerate edge 3-4
+AAS_GetFace: face 20920 had degenerate edge 1-2
+AAS_GetFace: face 20924 had degenerate edge 1-2
+AAS_GetFace: face 20947 had degenerate edge 5-6
+AAS_GetFace: face 20948 had degenerate edge 3-4
+AAS_GetFace: face 20949 had degenerate edge 1-2
+AAS_GetFace: face 20952 had degenerate edge 0-1
+AAS_GetFace: face 21023 had degenerate edge 0-1
+AAS_GetFace: face 21035 had degenerate edge 1-2
+AAS_GetFace: face 21076 had degenerate edge 2-3
+AAS_GetFace: face 21079 had degenerate edge 1-2
+AAS_GetFace: face 21115 had degenerate edge 0-1
+AAS_GetFace: face 21117 had degenerate edge 0-1
+AAS_GetFace: face 21120 had degenerate edge 0-1
+AAS_GetFace: face 21124 had degenerate edge 0-1
+AAS_GetFace: face 21147 had degenerate edge 0-1
+AAS_GetFace: face 21151 had degenerate edge 0-1
+AAS_GetFace: face 21151 had degenerate edge 2-3
+AAS_GetFace: face 21153 had degenerate edge 1-2
+AAS_GetFace: face 21157 had degenerate edge 5-6
+AAS_GetFace: face 21312 had degenerate edge 4-5
+AAS_GetFace: face 21379 had degenerate edge 6-0
+AAS_GetFace: face 21704 had degenerate edge 2-3
+AAS_GetFace: face 21716 had degenerate edge 4-0
+AAS_GetFace: face 21717 had degenerate edge 2-3
+AAS_GetFace: face 21718 had degenerate edge 2-3
+AAS_GetFace: face 21721 had degenerate edge 1-2
+AAS_GetFace: face 21725 had degenerate edge 3-4
+AAS_GetFace: face 21835 had degenerate edge 2-3
+AAS_GetFace: face 21836 had degenerate edge 1-2
+AAS_GetFace: face 21879 had degenerate edge 4-5
+AAS_GetFace: face 21934 had degenerate edge 0-1
+AAS_GetFace: face 22037 had degenerate edge 0-1
+AAS_GetFace: face 22043 had degenerate edge 3-0
+AAS_GetFace: face 22044 had degenerate edge 2-3
+AAS_GetFace: face 22045 had degenerate edge 0-1
+AAS_GetFace: face 22046 had degenerate edge 2-3
+AAS_GetFace: face 22046 had degenerate edge 4-5
+AAS_GetFace: face 22102 had degenerate edge 2-3
+AAS_GetFace: face 22104 had degenerate edge 1-2
+AAS_GetFace: face 22113 had degenerate edge 3-4
+AAS_GetFace: face 22172 had degenerate edge 0-1
+AAS_GetFace: face 22241 had degenerate edge 3-4
+AAS_GetFace: face 22254 had degenerate edge 1-2
+AAS_GetFace: face 22378 had degenerate edge 0-1
+AAS_GetFace: face 22381 had degenerate edge 3-4
+AAS_GetFace: face 22394 had degenerate edge 1-2
+AAS_GetFace: face 22400 had degenerate edge 0-1
+AAS_GetFace: face 22402 had degenerate edge 0-1
+AAS_GetFace: face 22428 had degenerate edge 0-1
+AAS_GetFace: face 22442 had degenerate edge 0-1
+AAS_GetFace: face 22478 had degenerate edge 0-1
+AAS_GetFace: face 22479 had degenerate edge 2-3
+AAS_GetFace: face 22490 had degenerate edge 2-3
+AAS_GetFace: face 22495 had degenerate edge 1-2
+AAS_GetFace: face 22496 had degenerate edge 1-2
+AAS_GetFace: face 22497 had degenerate edge 0-1
+AAS_GetFace: face 22515 had degenerate edge 3-4
+AAS_GetFace: face 22532 had degenerate edge 0-1
+AAS_GetFace: face 22536 had degenerate edge 0-1
+AAS_GetFace: face 22537 had degenerate edge 2-3
+AAS_GetFace: face 22560 had degenerate edge 2-3
+AAS_GetFace: face 22561 had degenerate edge 3-4
+AAS_GetFace: face 22573 had degenerate edge 2-3
+AAS_GetFace: face 22580 had degenerate edge 0-1
+AAS_GetFace: face 22593 had degenerate edge 2-3
+AAS_GetFace: face 22613 had degenerate edge 4-5
+AAS_GetFace: face 22614 had degenerate edge 3-4
+AAS_GetFace: face 22615 had degenerate edge 3-4
+AAS_GetFace: face 22617 had degenerate edge 3-4
+AAS_GetFace: face 22619 had degenerate edge 2-3
+AAS_GetFace: face 22699 had degenerate edge 2-3
+AAS_GetFace: face 22704 had degenerate edge 0-1
+AAS_GetFace: face 22706 had degenerate edge 2-3
+AAS_GetFace: face 22711 had degenerate edge 3-4
+AAS_GetFace: face 22714 had degenerate edge 3-0
+AAS_GetFace: face 22731 had degenerate edge 0-1
+AAS_GetFace: face 22754 had degenerate edge 3-4
+AAS_GetFace: face 22756 had degenerate edge 3-4
+AAS_GetFace: face 22758 had degenerate edge 2-3
+AAS_GetFace: face 22759 had degenerate edge 1-2
+AAS_GetFace: face 22759 had degenerate edge 4-5
+AAS_GetFace: face 22760 had degenerate edge 0-1
+AAS_GetFace: face 22781 had degenerate edge 0-1
+AAS_GetFace: face 22784 had degenerate edge 0-1
+AAS_GetFace: face 22786 had degenerate edge 4-5
+AAS_GetFace: face 22861 had degenerate edge 1-2
+AAS_GetFace: face 22864 had degenerate edge 0-1
+AAS_GetFace: face 22865 had degenerate edge 0-1
+AAS_GetFace: face 22941 had degenerate edge 3-4
+AAS_GetFace: face 22965 had degenerate edge 0-1
+AAS_GetFace: face 23012 had degenerate edge 1-2
+AAS_GetFace: face 23015 had degenerate edge 0-1
+AAS_GetFace: face 23018 had degenerate edge 2-3
+AAS_GetFace: face 23025 had degenerate edge 1-2
+AAS_GetFace: face 23026 had degenerate edge 2-3
+AAS_GetFace: face 23032 had degenerate edge 1-2
+AAS_GetFace: face 23033 had degenerate edge 2-3
+AAS_GetFace: face 23035 had degenerate edge 0-1
+AAS_GetFace: face 24048 had degenerate edge 2-3
+AAS_GetFace: face 24048 had degenerate edge 4-0
+AAS_GetFace: face 24075 had degenerate edge 2-3
+AAS_GetFace: face 24091 had degenerate edge 2-3
+AAS_GetFace: face 24143 had degenerate edge 2-3
+AAS_GetFace: face 24153 had degenerate edge 3-4
+AAS_GetFace: face 24157 had degenerate edge 4-5
+AAS_GetFace: face 24246 had degenerate edge 0-1
+AAS_GetFace: face 24358 had degenerate edge 3-4
+AAS_GetFace: face 24463 had degenerate edge 2-3
+AAS_GetFace: face 24497 had degenerate edge 3-4
+AAS_GetFace: face 24823 had degenerate edge 3-0
+AAS_GetFace: face 24827 had degenerate edge 3-4
+AAS_GetFace: face 24830 had degenerate edge 1-2
+AAS_GetFace: face 24989 had degenerate edge 3-0
+AAS_GetFace: face 25681 had degenerate edge 1-2
+AAS_GetFace: face 25717 had degenerate edge 1-2
+AAS_GetFace: face 25978 had degenerate edge 2-3
+AAS_GetFace: face 25994 had degenerate edge 0-1
+AAS_GetFace: face 26039 had degenerate edge 1-2
+AAS_GetFace: face 26475 had degenerate edge 0-1
+AAS_GetFace: face 26495 had degenerate edge 4-0
+AAS_GetFace: face 26502 had degenerate edge 2-3
+AAS_GetFace: face 26699 had degenerate edge 3-4
+AAS_GetFace: face 26704 had degenerate edge 3-4
+AAS_GetFace: face 26705 had degenerate edge 3-0
+AAS_GetFace: face 27978 had degenerate edge 1-2
+AAS_GetFace: face 28033 had degenerate edge 2-3
+AAS_GetFace: face 28106 had degenerate edge 2-3
+AAS_GetFace: face 28108 had degenerate edge 0-1
+AAS_GetFace: face 28137 had degenerate edge 3-0
+AAS_GetFace: face 28141 had degenerate edge 3-4
+  4984 areas stored
+writing C:\quake2-Yagami\Gladiator\maps\mintro.aas
+freed 6 MB and 624 KB and 580 bytes of AAS memory
+
+AAS created in    42 seconds
