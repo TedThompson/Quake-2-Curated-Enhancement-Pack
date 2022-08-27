@@ -4,7 +4,7 @@ Collected works to update the look and features of Quake 2 - leveraging Yamagi Q
 ## Featuring:
 * Textures and Models from Yagami's server
 * HUD Graphics from Knightmare Qauke 2
-* Music from the original games and expansions
+* ~~Music from the original games and expansions~~ (*LINKS* to the original music)
 * Bots from Mr. Elusive (Gladiator Bot)
 * Some overlooked textures from me forming a complete set covering the base game and expansions
 
